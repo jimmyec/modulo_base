@@ -11,11 +11,11 @@
     'version': '1.0',
     'installable': True,
     'depends': [
-        # 'educa',
+        # 'base',
     ],
     'data': [
-        'views/views.xml',
-        'views/templates.xml',
+        # 'views/views.xml',
+        # 'views/templates.xml',
     ],
     # 'license': 'OPL-1',
 }
